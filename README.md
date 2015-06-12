@@ -6,9 +6,9 @@ Author: Garrett Olson
 
 ##Setup
 
-Note: currently only supported for MAC.
+Note: currently only supported for running on Mac.
 
-1. Once the project is downloaded and unzipped, navigate to it's root directory in a terminal.
+1. Once the project is downloaded and unzipped, navigate to its root directory in a terminal.
 2. Boot up a local server by typing: 'python -m SimpleHTTPServer'
 3. When the server is up and running, open up your favorite web browser and navigate to 'http://localhost:8000/'
 

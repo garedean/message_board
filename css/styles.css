@@ -1,0 +1,26 @@
+header {
+    background: url('../images/plank.jpg') no-repeat;
+    overflow: auto;
+}
+
+header h1 {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.btn {
+    border-radius: 0px;
+}
+
+.btn-lg {
+    padding: 10px 90px;
+}
+
+.vertically-spaced-md {
+    margin: 20px 0;
+}
+
+h4 {
+    font-size: 18px;
+    font-weight: 400;
+}
